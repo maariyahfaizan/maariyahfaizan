@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Maariyah 👋  
 
-<!--
-**maariyahfaizan/maariyahfaizan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-year **Computer Science undergraduate**  
+📖 Exploring computing fundamentals while developing programming skills.  
+💡 Interested in building a solid base for future academic and research opportunities.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Learning  
+- Languages: Python, C, SQL, Java (in progress)  
+- Coursework: Data Structures, Algorithms, Computer Architecture
+- Exploring research papers and developing foundational coding projects.
+
+---
+
+## 📂 Current Repository  
+- [Java Programs](https://github.com/maariyafaizan/Java-Programs-) – Weekly lab assignments focused on strengthening object-oriented programming concepts and problem-solving in Java.
+-[Web-Development-](https://github.com/maariyahfaizan/Web-Development-) – Introductory projects exploring HTML, CSS, and JavaScript fundamentals through small interactive applications.  
+
+---
+
+## 📫 How to Reach Me  
+- GitHub: [maariyahfaizan](https://github.com/maariyahfaizan)  
+- LinkedIn: [Maariyah Anjum Faizan](www.linkedin.com/in/maariyah-anjum-faizan-70491b328)
+- Email: maariyahanjum06@gmail.com 
+

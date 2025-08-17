@@ -15,8 +15,8 @@
 
 ## 📂 Current Repository  
 <ls>
-<li>- [Java Programs](https://github.com/maariyafaizan/Java-Programs-) – Weekly lab assignments focused on strengthening object-oriented programming concepts and problem-solving in Java.</li>
-<li>-[Web-Development-](https://github.com/maariyahfaizan/Web-Development-) – Introductory projects exploring HTML, CSS, and JavaScript fundamentals through small interactive applications.</li>  
+<li>[Java Programs](https://github.com/maariyafaizan/Java-Programs-) – Weekly lab assignments focused on strengthening object-oriented programming concepts and problem-solving in Java.</li>
+<li>[Web-Development-](https://github.com/maariyahfaizan/Web-Development-) – Introductory projects exploring HTML, CSS, and JavaScript fundamentals through small interactive applications.</li>  
 </ls>
 
 ---

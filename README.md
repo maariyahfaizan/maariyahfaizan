@@ -23,6 +23,6 @@
 
 ## 📫 How to Reach Me  
 - GitHub: [maariyahfaizan](https://github.com/maariyahfaizan)  
-- LinkedIn: [maariyah-anjum-faizan](www.linkedin.com/in/maariyah-anjum-faizan-70491b328)
+- LinkedIn: [https://maariyah-anjum-faizan](www.linkedin.com/in/maariyah-anjum-faizan-70491b328)
 - Email: maariyahanjum06@gmail.com 
 

@@ -1,3 +1,5 @@
+![profile gif](intro.gif)
+---
 # 💫 Hi, I am Maariyah!
 CS undergrad who enjoys theory-heavy, mathematically grounded topics and learning things independently beyond the syllabus.<br><br>Interested in research, especially in machine learning and interactive systems, and in exploring how technical ideas connect to real-world and societal impact.<br><br>Drawn to areas like deep learning where strong mathematical structure meets intuitive and practical insights.
 
